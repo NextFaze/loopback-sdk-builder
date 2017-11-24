@@ -2,6 +2,56 @@
 
 This file is created to keep history of the LoopBack SDK Builder, it does not consider or keeps any history of its parent module `loopback-sdk-angular`
 
+## Release 2.1.1
+
+NGRX HotFixes.
+Angular 5 Support Fixes.
+
+## Release 2.1.0
+Release 2.1.0
+
+Implemented Angular 2+ SDK
+Implemented ReactJS SDK
+Implemented NGRX / ORM
+Thanks a lot to all the contributors for making this possible, special tanks goes to @JonnyBGod and @kattsushi for React and NgRX Implementations.
+
+## Release 2.1.0-rc.14
+
+- Milestone Details: https://github.com/mean-expert-official/loopback-sdk-builder/milestone/48?closed=1
+
+- Fix: https://github.com/mean-expert-official/loopback-sdk-builder/issues/515
+- Fix: https://github.com/mean-expert-official/loopback-sdk-builder/issues/514
+- Fix: https://github.com/mean-expert-official/loopback-sdk-builder/issues/511
+- WIP: https://github.com/mean-expert-official/loopback-sdk-builder/issues/495
+
+## Release 2.1.0-rc.13.5
+
+- Milestone Details: https://github.com/mean-expert-official/loopback-sdk-builder/milestone/47?closed=1
+
+- Fix: https://github.com/mean-expert-official/loopback-sdk-builder/issues/482
+- Fix: https://github.com/mean-expert-official/loopback-sdk-builder/issues/481
+- Fix: https://github.com/mean-expert-official/loopback-sdk-builder/issues/480
+- Fix: https://github.com/mean-expert-official/loopback-sdk-builder/issues/475
+
+## Release 2.1.0-rc.13.4
+
+- Replaces Release 2.1.0-rc.13.3
+
+## Release 2.1.0-rc.13.3
+
+- Milestone Details: https://github.com/mean-expert-official/loopback-sdk-builder/milestone/46?closed=1
+
+- Fix: https://github.com/mean-expert-official/loopback-sdk-builder/issues/419
+- Fix: https://github.com/mean-expert-official/loopback-sdk-builder/issues/417
+
+## Release 2.1.0-rc.13.2
+
+- Milestone Details: https://github.com/mean-expert-official/loopback-sdk-builder/milestone/45?closed=1
+
+- Fix: https://github.com/mean-expert-official/loopback-sdk-builder/issues/466
+- Fix: https://github.com/mean-expert-official/loopback-sdk-builder/issues/465
+- Fix: https://github.com/mean-expert-official/loopback-sdk-builder/issues/462
+
 ## Release 2.1.0-rc.13
 
 - Milestone Details: https://github.com/mean-expert-official/loopback-sdk-builder/milestone/44?closed=1

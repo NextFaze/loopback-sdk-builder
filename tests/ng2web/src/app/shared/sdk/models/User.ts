@@ -49,6 +49,8 @@ export class User implements UserInterface {
     return {
       name: 'User',
       plural: 'Users',
+      path: 'Users',
+      idName: 'id',
       properties: {
         "realm": {
           name: 'realm',
@@ -79,7 +81,10 @@ export class User implements UserInterface {
         accessTokens: {
           name: 'accessTokens',
           type: 'any[]',
-          model: ''
+          model: '',
+          relationType: 'hasMany',
+                  keyFrom: 'id',
+          keyTo: 'userId'
         },
       }
     }
